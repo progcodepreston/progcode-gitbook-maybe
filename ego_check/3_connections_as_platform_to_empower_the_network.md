@@ -1,0 +1,5 @@
+## 3\. Connections as Platform to empower the network {#3-connections-as-platform-to-empower-the-network}
+
+As someone who will be connected to a lot of project leaders, progressive movers, you have to be mindful that our connections, the relationships we develop should bring everyone up along with us. As people who will become more connected as we are the one who will interface with a lot of people, we have to strongly consider to use these connections, to use the network we have formed to serve the applications we support. We have to bring the whole organization up with us.
+
+With these in mind, we will bring forward a progressive collaboration at the front of our priorities. These ego checks, if we are constantly mindful about it, will inevitably make the progressive tech movement all the more sustainable and stronger.

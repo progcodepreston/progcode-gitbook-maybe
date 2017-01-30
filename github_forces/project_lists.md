@@ -1,0 +1,3 @@
+## Project Lists {#project-lists}
+
+The project lists provide a glimpse of the projects that are currently ongoing. This is also repurposed to visualize all the projects happening in the ProgCode community slack. The assignees are the project coordinators assigned to the project from the ProgCode side (with the blessing of the app creator), while the comments section provides space for updating the project. The project information is taken from the [Chi Hack Night](https://www.google.com/url?q=http://www.chihacknight.org&sa=D&ust=1485764357502000&usg=AFQjCNH0X89WFhISXF9T1O21d6aMrgM8qA) format.

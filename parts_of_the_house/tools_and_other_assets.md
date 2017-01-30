@@ -1,0 +1,5 @@
+## Tools and Other Assets {#tools-and-other-assets}
+
+Dan and Dave have been the two main folks working on much of the tools being used in ProgCode. Many of our tools are centered in AirTable, slack Integration. The main goals of which are to make sense of the chaos that is happening in Slack, provide areas of collaboration outside of Slack, and become a more digestible resource of knowledge about the network. If you wish to help out building tools, please reach out at #operations
+
+We fully embrace the power that slack provides the network. It is the platform for ideation, collaboration, and the initial stake that members put into our community (See Slack Forces). The biggest challenge in having slack as that platform is onboarding and re-onboarding. That&#039;s where GitHub shines. We have started putting all the information anyone needs to know to get started in operations and start contributing. The project pages also offer a lot of ways for people to jump in a project and contribute, but at the same time learn the latest news about them.

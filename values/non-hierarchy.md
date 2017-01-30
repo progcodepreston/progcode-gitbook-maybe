@@ -1,0 +1,7 @@
+## Non-Hierarchy {#non-hierarchy}
+
+Non-hierarchy recognizes that the network is flat, and that the leadership or perceived leadership is set on how connected  you are within the network and the quality of service you have provided to those connected to you. The goal of which is to maximize social capital. The idea of non-hierarchy pre-supposes that the “leader” entity is not awarded or bestowed upon a person but rather earned based on your service to one another and standing within the community. As Prog Code, staff people will inherently look at us as leaders who have contributed to help build this community, so it&#039;s crucial to adhere these values
+
+That is why the idea of “the board” is a construct for legal purposes only and should be treated as such. The drivers of change are indeed the applications and app creators themselves, so as staffer it is our best interest to provide the connections and the communications necessary for these projects to become a success within their team, and to the general public.
+
+“Power” is posed not as an entity that is entitled to anyone – despite being a staff member (see Ego Check below) – and is not the currency we want to cultivate. Influence for the good of the community, good will, and personal relationship, are the entities we try to cultivate in the community – a non-hierarchical ecosystem allows for that to happen.

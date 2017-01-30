@@ -1,0 +1,3 @@
+## Attitudes on projects {#attitudes-on-projects}
+
+Projects are ideas, realized. However, these are still subjected to the fact that a project will be able to become the best applicaton ever created – or – an undone project. However, this does not change our commitment on becoming a framework of support to any of the projects within ProgCode. A project in our community is in itself a way for members to take ownership of the community, and as we provide service to them, we send out signals that we are in-fact coming from a place of service.

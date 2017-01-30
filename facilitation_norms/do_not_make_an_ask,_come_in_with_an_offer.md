@@ -1,0 +1,3 @@
+## Do not make an ask, come in with an offer {#do-not-make-an-ask-come-in-with-an-offer}
+
+In starting a relationship with creators or members, always always come from a place of service. We do not and will not be able to create relationships without an offer of service coming from us. The ask will only have the possibility of happening once trust and camaraderie has been established. You are encouraged to provide continuous service. Failure to establish rapport will result to the supposed partner being repulsed and not join the network.

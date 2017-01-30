@@ -1,0 +1,7 @@
+## Push and be Pulled {#push-and-be-pulled}
+
+As encouraged in our [pilot program](https://www.google.com/url?q=https://github.com/ProgressiveCoders/functions/projects/1&sa=D&ust=1485764357473000&usg=AFQjCNGG8TpoSRJWy4-XI3x7LAXbSMZnYA), we want to encourage self-determination and a self-starter attitude in the network. Contrary to a top-down approach, we encourage people to not wait for any permissions and give themselves the permission to do things they want to do. This is rooted in the idea and belief that people within the network wants what is best to serve and add value to the community, so the trust everyone gives out to everyone will hopefully affect the decisions of the individuals within the network.
+
+However, it is also a network of humility and a lack of ego, wherein we should be able to pull back folks on the things they do, without ruining their spirit. All staffers are encouraged to pull back when needed, and are also encouraged to push forward any time.
+
+For example, the social media account is shared by multiple people, and we are all encouraged to push items during the weekend to our own devices, however the network folks will also be able to pull back any posts made under the @prog_code

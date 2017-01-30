@@ -1,0 +1,3 @@
+## Respect the ideas of members {#respect-the-ideas-of-members}
+
+Ideation is such an integral part of Progressive Coders Network that the mere act of creating and building an idea to the community becomes a form of taking ownership to the community as a whole. We must respect these ideas and allow it to bloom or to reach its natural demise without negativity and with respect. For more information on our stance on ideas, please check out this [Medium post](https://www.google.com/url?q=https://medium.com/progressive-coders-network/a-volunteer-culture-powered-by-ideas-723544bedfa6&sa=D&ust=1485764357506000&usg=AFQjCNFSIZACQmQgmr4rp7yhBvpFwY_oyg).

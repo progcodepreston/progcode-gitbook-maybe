@@ -1,0 +1,3 @@
+## Personal Relationships {#personal-relationships}
+
+The network will not be a network if there are no personal relationships gluing everything together. ProgCode emphasizes the need for us to make connections between us and the people we serve, and it will not happen through just providing technological tools to members and staff. We value constant conversation, talking about the issues, making relationships and friendships within the network and outside of it. Only then with these myriads of connections, intertwining around each other, will we have a sustainable network.

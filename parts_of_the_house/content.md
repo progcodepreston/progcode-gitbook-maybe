@@ -1,0 +1,7 @@
+## Content {#content}
+
+Rachel Brody has been leading the weekly updates, which we push to the whole network to give them an up-to-date news on what is going on with the network. We push this out in our Medium publication, The Progressive Coder, along with other works contributed by members of the network. If you wish to partner up with Rachel, please reach out at #operations.
+
+Social Media is delegated to all folks who are willing. This is where the push-be-pulled value comes in a lot. The main idea for our social media assets is to engage the public at large into conversation, and make them think about the relationship of tech in the progressive movement, but at the same time push progressive agenda to a technological audience. It is also used to highlight projects within our community and provide a space for them to be amplified. It is not a place to grandstand or megaphone your thoughts. It is not anyone’s megaphones, but it is used to serve the community.
+
+Various channels in slack are used as tools of engagement as well, which allows us to provide information to the public thereon which project would be best to focus on. These various copies of tweets, facebook messages, community call-outs are all situated in [our content calendar](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1N7Ab-292rs8wm44QgetbsqwlpgKlnKZ0QVuRkjtJacc/edit?usp%3Dsharing&sa=D&ust=1485764357522000&usg=AFQjCNFOnL0HXkp4SHRv6ZnZeSnor25v7Q).
